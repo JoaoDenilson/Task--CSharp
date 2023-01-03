@@ -1,0 +1,12 @@
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\bin\Debug\net6.0\Library.deps.json
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\bin\Debug\net6.0\Library.dll
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\bin\Debug\net6.0\Library.pdb
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\Library.dll
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\Library.pdb
+C:\Projects_C#\Curso_CSharp\Task-CSharp\Library\obj\Debug\net6.0\ref\Library.dll
