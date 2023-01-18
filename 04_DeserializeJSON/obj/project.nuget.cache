@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KRxEEDgbIGQIqd5AYz6yspiXyF/JFkqb1bVjgUdKyqe9QQNm2wZFHEz33UC6iyfznfCXhGO2ou2D0kEGX9oTVw==",
+  "dgSpecHash": "Ap1/DSLM9vLLeTjRY8nTH7eF7hfEtknMAl1fjsT1k2VP9IPX86C0p1XRrK/dIe+hHr5gPHwCIBTJgvtdJWmz5Q==",
   "success": true,
-  "projectFilePath": "C:\\Projects_C#\\Curso_CSharp\\Task-CSharp\\04_DeserializeJSON\\04_DeserializeJSON.csproj",
+  "projectFilePath": "C:\\Projects_C#\\Task-CSharp\\04_DeserializeJSON\\04_DeserializeJSON.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

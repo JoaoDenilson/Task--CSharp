@@ -13,7 +13,7 @@ namespace _01_DeserializeXML
 
             User user = (User)serializador.Deserialize(stream);
 
-            Console.WriteLine("Usuario(Nome): {0}, CPF: {1} e Email: {2}", user.Name, user.CPF, user.CPF);
+            Console.WriteLine("Usuario(Nome): {0}, CPF: {1} e Email: {2}", user.Name, user.CPF, user.Email);
             Console.ReadKey();
         }
     }

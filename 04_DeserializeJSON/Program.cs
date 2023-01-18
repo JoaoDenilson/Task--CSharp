@@ -11,7 +11,7 @@ namespace _04_DeserializeJSON
             string jsonString = File.ReadAllText(fileName);
             User user = JsonSerializer.Deserialize<User>(jsonString)!;
 
-            Console.WriteLine("Usuario(Nome): {0}, CPF: {1} e Email: {2}", user.Name, user.CPF, user.CPF);
+            Console.WriteLine("Usuario(Nome): {0}, CPF: {1} e Email: {2}", user.Name, user.CPF, user.Email);
             Console.ReadKey();
         }
     }

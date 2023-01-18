@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.csproj", "{4D21AB62-11B1-4D8D-9AD8-BB3BA6720C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library", "Library\Library.csproj", "{4D21AB62-11B1-4D8D-9AD8-BB3BA6720C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DeserializeXML", "01_DeserializeXML\01_DeserializeXML.csproj", "{C1AE3288-D443-4F4A-BEAC-66971E1F1EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_DeserializeXML", "01_DeserializeXML\01_DeserializeXML.csproj", "{C1AE3288-D443-4F4A-BEAC-66971E1F1EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_SerializeXML", "02_SerializeXML\02_SerializeXML.csproj", "{64E71FD2-F196-4464-91EB-DAD216C9A377}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_SerializeXML", "02_SerializeXML\02_SerializeXML.csproj", "{64E71FD2-F196-4464-91EB-DAD216C9A377}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SerializeJSON", "03_SerializeJSON\03_SerializeJSON.csproj", "{1139926A-6D3B-46D5-826D-6D8917603AB2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_SerializeJSON", "03_SerializeJSON\03_SerializeJSON.csproj", "{1139926A-6D3B-46D5-826D-6D8917603AB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_DeserializeJSON", "04_DeserializeJSON\04_DeserializeJSON.csproj", "{A69E3F99-936F-4A24-B0C5-1DFA9EA16594}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_DeserializeJSON", "04_DeserializeJSON\04_DeserializeJSON.csproj", "{A69E3F99-936F-4A24-B0C5-1DFA9EA16594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Generics", "03_Generics\03_Generics.csproj", "{5201F463-2D50-4F19-AC46-CBAE72F326CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A69E3F99-936F-4A24-B0C5-1DFA9EA16594}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A69E3F99-936F-4A24-B0C5-1DFA9EA16594}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A69E3F99-936F-4A24-B0C5-1DFA9EA16594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5201F463-2D50-4F19-AC46-CBAE72F326CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5201F463-2D50-4F19-AC46-CBAE72F326CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5201F463-2D50-4F19-AC46-CBAE72F326CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5201F463-2D50-4F19-AC46-CBAE72F326CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

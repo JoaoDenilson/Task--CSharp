@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects_C#\\Curso_CSharp\\Task-CSharp\\01_DeserializeXML\\01_DeserializeXML.csproj",
+      "projectUniqueName": "C:\\Projects_C#\\Task-CSharp\\01_DeserializeXML\\01_DeserializeXML.csproj",
       "projectName": "01_DeserializeXML",
-      "projectPath": "C:\\Projects_C#\\Curso_CSharp\\Task-CSharp\\01_DeserializeXML\\01_DeserializeXML.csproj",
+      "projectPath": "C:\\Projects_C#\\Task-CSharp\\01_DeserializeXML\\01_DeserializeXML.csproj",
       "packagesPath": "C:\\Users\\denilson_santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects_C#\\Curso_CSharp\\Task-CSharp\\01_DeserializeXML\\obj\\",
+      "outputPath": "C:\\Projects_C#\\Task-CSharp\\01_DeserializeXML\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects_C#\\Curso_CSharp\\Task-CSharp\\Library\\Library.csproj": {
-              "projectPath": "C:\\Projects_C#\\Curso_CSharp\\Task-CSharp\\Library\\Library.csproj"
+            "C:\\Projects_C#\\Task-CSharp\\Library\\Library.csproj": {
+              "projectPath": "C:\\Projects_C#\\Task-CSharp\\Library\\Library.csproj"
             }
           }
         }

@@ -1,0 +1,15 @@
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.csproj.AssemblyReference.cache
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\03_Generics\bin\Debug\net6.0\03_Generics.exe
+C:\Projects_C#\Task-CSharp\03_Generics\bin\Debug\net6.0\03_Generics.deps.json
+C:\Projects_C#\Task-CSharp\03_Generics\bin\Debug\net6.0\03_Generics.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\03_Generics\bin\Debug\net6.0\03_Generics.dll
+C:\Projects_C#\Task-CSharp\03_Generics\bin\Debug\net6.0\03_Generics.pdb
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.dll
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\refint\03_Generics.dll
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.pdb
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\03_Generics.genruntimeconfig.cache
+C:\Projects_C#\Task-CSharp\03_Generics\obj\Debug\net6.0\ref\03_Generics.dll

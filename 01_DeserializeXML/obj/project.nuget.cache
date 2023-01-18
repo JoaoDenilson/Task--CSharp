@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vN+zBlpXvMI3GrnCBeZ5x+FKQl7tNW1rEE0WN5WK0nzWZxBl4DSRW1VmrLgGbrEkAsWE9omDfniSPBz3DHvORA==",
+  "dgSpecHash": "zSswbngpdimojXzrQQtp3Z3XfKIjmNN8Q+AsMMl7dGH133nST7vO64PbcnAajxlGsYoeUNOZHxL0fFP8S+h1LA==",
   "success": true,
-  "projectFilePath": "C:\\Projects_C#\\Curso_CSharp\\Task-CSharp\\01_DeserializeXML\\01_DeserializeXML.csproj",
+  "projectFilePath": "C:\\Projects_C#\\Task-CSharp\\01_DeserializeXML\\01_DeserializeXML.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
