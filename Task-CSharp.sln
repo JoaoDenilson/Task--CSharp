@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_SerializeJSON", "03_Seri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_DeserializeJSON", "04_DeserializeJSON\04_DeserializeJSON.csproj", "{A69E3F99-936F-4A24-B0C5-1DFA9EA16594}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Generics", "03_Generics\03_Generics.csproj", "{5201F463-2D50-4F19-AC46-CBAE72F326CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Generics", "03_Generics\03_Generics.csproj", "{5201F463-2D50-4F19-AC46-CBAE72F326CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LINQ_JOIN", "05_LINQ_JOIN\05_LINQ_JOIN.csproj", "{CB69B684-4E22-497E-BABD-FAFD290313E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_LINQ_GROUP", "06_LINQ_GROUP\06_LINQ_GROUP.csproj", "{496DE231-8DE1-4844-B475-8D7F3C8D4F75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5201F463-2D50-4F19-AC46-CBAE72F326CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5201F463-2D50-4F19-AC46-CBAE72F326CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5201F463-2D50-4F19-AC46-CBAE72F326CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB69B684-4E22-497E-BABD-FAFD290313E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB69B684-4E22-497E-BABD-FAFD290313E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB69B684-4E22-497E-BABD-FAFD290313E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB69B684-4E22-497E-BABD-FAFD290313E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496DE231-8DE1-4844-B475-8D7F3C8D4F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496DE231-8DE1-4844-B475-8D7F3C8D4F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496DE231-8DE1-4844-B475-8D7F3C8D4F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496DE231-8DE1-4844-B475-8D7F3C8D4F75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
