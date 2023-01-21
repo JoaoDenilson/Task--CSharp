@@ -1,0 +1,17 @@
+C:\Projects_C#\Task-CSharp\06_events\bin\Debug\net6.0-windows\06_events.exe
+C:\Projects_C#\Task-CSharp\06_events\bin\Debug\net6.0-windows\06_events.deps.json
+C:\Projects_C#\Task-CSharp\06_events\bin\Debug\net6.0-windows\06_events.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\06_events\bin\Debug\net6.0-windows\06_events.dll
+C:\Projects_C#\Task-CSharp\06_events\bin\Debug\net6.0-windows\06_events.pdb
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.csproj.AssemblyReference.cache
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\_06_events.Form1.resources
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.csproj.GenerateResource.cache
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.dll
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\refint\06_events.dll
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.pdb
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\06_events.genruntimeconfig.cache
+C:\Projects_C#\Task-CSharp\06_events\obj\Debug\net6.0-windows\ref\06_events.dll
