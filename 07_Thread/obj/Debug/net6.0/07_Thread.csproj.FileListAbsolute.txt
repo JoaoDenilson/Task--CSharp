@@ -1,0 +1,15 @@
+C:\Projects_C#\Task-CSharp\07_Thread\bin\Debug\net6.0\07_Thread.exe
+C:\Projects_C#\Task-CSharp\07_Thread\bin\Debug\net6.0\07_Thread.deps.json
+C:\Projects_C#\Task-CSharp\07_Thread\bin\Debug\net6.0\07_Thread.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\07_Thread\bin\Debug\net6.0\07_Thread.dll
+C:\Projects_C#\Task-CSharp\07_Thread\bin\Debug\net6.0\07_Thread.pdb
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.csproj.AssemblyReference.cache
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.dll
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\refint\07_Thread.dll
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.pdb
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\07_Thread.genruntimeconfig.cache
+C:\Projects_C#\Task-CSharp\07_Thread\obj\Debug\net6.0\ref\07_Thread.dll

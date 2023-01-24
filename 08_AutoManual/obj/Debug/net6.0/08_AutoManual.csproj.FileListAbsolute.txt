@@ -1,0 +1,15 @@
+C:\Projects_C#\Task-CSharp\08_AutoManual\bin\Debug\net6.0\08_AutoManual.exe
+C:\Projects_C#\Task-CSharp\08_AutoManual\bin\Debug\net6.0\08_AutoManual.deps.json
+C:\Projects_C#\Task-CSharp\08_AutoManual\bin\Debug\net6.0\08_AutoManual.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\08_AutoManual\bin\Debug\net6.0\08_AutoManual.dll
+C:\Projects_C#\Task-CSharp\08_AutoManual\bin\Debug\net6.0\08_AutoManual.pdb
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.csproj.AssemblyReference.cache
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.dll
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\refint\08_AutoManual.dll
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.pdb
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\08_AutoManual.genruntimeconfig.cache
+C:\Projects_C#\Task-CSharp\08_AutoManual\obj\Debug\net6.0\ref\08_AutoManual.dll
