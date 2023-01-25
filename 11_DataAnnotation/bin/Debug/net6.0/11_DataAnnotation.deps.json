@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "11_DataAnnotation/1.0.0": {
+        "runtime": {
+          "11_DataAnnotation.dll": {}
+        },
+        "resources": {
+          "pt/11_DataAnnotation.resources.dll": {
+            "locale": "pt"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11_DataAnnotation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
