@@ -1,0 +1,15 @@
+C:\Projects_C#\Task-CSharp\10_TaskMult\bin\Debug\net6.0\10_TaskMult.exe
+C:\Projects_C#\Task-CSharp\10_TaskMult\bin\Debug\net6.0\10_TaskMult.deps.json
+C:\Projects_C#\Task-CSharp\10_TaskMult\bin\Debug\net6.0\10_TaskMult.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\10_TaskMult\bin\Debug\net6.0\10_TaskMult.dll
+C:\Projects_C#\Task-CSharp\10_TaskMult\bin\Debug\net6.0\10_TaskMult.pdb
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.csproj.AssemblyReference.cache
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.dll
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\refint\10_TaskMult.dll
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.pdb
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\10_TaskMult.genruntimeconfig.cache
+C:\Projects_C#\Task-CSharp\10_TaskMult\obj\Debug\net6.0\ref\10_TaskMult.dll
