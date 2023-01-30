@@ -1,0 +1,15 @@
+C:\Projects_C#\Task-CSharp\12_Reflection\bin\Release\net6.0\12_Reflection.exe
+C:\Projects_C#\Task-CSharp\12_Reflection\bin\Release\net6.0\12_Reflection.deps.json
+C:\Projects_C#\Task-CSharp\12_Reflection\bin\Release\net6.0\12_Reflection.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\12_Reflection\bin\Release\net6.0\12_Reflection.dll
+C:\Projects_C#\Task-CSharp\12_Reflection\bin\Release\net6.0\ref\12_Reflection.dll
+C:\Projects_C#\Task-CSharp\12_Reflection\bin\Release\net6.0\12_Reflection.pdb
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.csproj.AssemblyReference.cache
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.dll
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\ref\12_Reflection.dll
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.pdb
+C:\Projects_C#\Task-CSharp\12_Reflection\obj\Release\net6.0\12_Reflection.genruntimeconfig.cache

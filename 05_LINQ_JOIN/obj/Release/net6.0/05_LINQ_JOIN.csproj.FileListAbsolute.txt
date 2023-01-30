@@ -1,0 +1,14 @@
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\bin\Release\net6.0\05_LINQ_JOIN.exe
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\bin\Release\net6.0\05_LINQ_JOIN.deps.json
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\bin\Release\net6.0\05_LINQ_JOIN.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\bin\Release\net6.0\05_LINQ_JOIN.dll
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\bin\Release\net6.0\ref\05_LINQ_JOIN.dll
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\bin\Release\net6.0\05_LINQ_JOIN.pdb
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\05_LINQ_JOIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\05_LINQ_JOIN.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\05_LINQ_JOIN.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\05_LINQ_JOIN.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\05_LINQ_JOIN.dll
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\ref\05_LINQ_JOIN.dll
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\05_LINQ_JOIN.pdb
+C:\Projects_C#\Task-CSharp\05_LINQ_JOIN\obj\Release\net6.0\05_LINQ_JOIN.genruntimeconfig.cache

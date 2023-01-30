@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Task-CSharp.MathOperations</id>
+    <version>1.0.0</version>
+    <title>MathOperations</title>
+    <authors>Joao Denilson Souza dos Santos</authors>
+    <owners>Joao Denilson Souza dos Santos</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/JoaoDenilson/Task-CSharp/tree/main/MathOperations</projectUrl>
+    <iconUrl>https://cdn.icon-icons.com/icons2/38/PNG/512/mathematics_4595.png</iconUrl>
+    <description>Library with mathematical operations.</description>
+    <copyright>Copyright 2023</copyright>
+    <language>pt-BR</language>
+    <tags>Math Sum</tags>
+  </metadata>
+  <files>
+    <file src="lib\_._" target="lib\_._" />
+    <file src="MathOperations.dll" target="MathOperations.dll" />
+  </files>
+</package>

@@ -1,0 +1,17 @@
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\04_DeserializeJSON.exe
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\04_DeserializeJSON.deps.json
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\04_DeserializeJSON.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\04_DeserializeJSON.dll
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\ref\04_DeserializeJSON.dll
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\04_DeserializeJSON.pdb
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\Library.dll
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\bin\Release\net6.0\Library.pdb
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.csproj.CopyComplete
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.dll
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\ref\04_DeserializeJSON.dll
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.pdb
+C:\Projects_C#\Task-CSharp\04_DeserializeJSON\obj\Release\net6.0\04_DeserializeJSON.genruntimeconfig.cache

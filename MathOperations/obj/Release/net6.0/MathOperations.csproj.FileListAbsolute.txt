@@ -1,0 +1,11 @@
+C:\Projects_C#\Task-CSharp\MathOperations\bin\Release\net6.0\MathOperations.deps.json
+C:\Projects_C#\Task-CSharp\MathOperations\bin\Release\net6.0\MathOperations.dll
+C:\Projects_C#\Task-CSharp\MathOperations\bin\Release\net6.0\ref\MathOperations.dll
+C:\Projects_C#\Task-CSharp\MathOperations\bin\Release\net6.0\MathOperations.pdb
+C:\Projects_C#\Task-CSharp\MathOperations\obj\Release\net6.0\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\MathOperations\obj\Release\net6.0\MathOperations.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\MathOperations\obj\Release\net6.0\MathOperations.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\MathOperations\obj\Release\net6.0\MathOperations.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\MathOperations\obj\Release\net6.0\MathOperations.dll
+C:\Projects_C#\Task-CSharp\MathOperations\obj\Release\net6.0\ref\MathOperations.dll
+C:\Projects_C#\Task-CSharp\MathOperations\obj\Release\net6.0\MathOperations.pdb

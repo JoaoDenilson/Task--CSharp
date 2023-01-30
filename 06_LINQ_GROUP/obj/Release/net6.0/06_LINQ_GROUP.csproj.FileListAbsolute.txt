@@ -1,0 +1,14 @@
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\bin\Release\net6.0\06_LINQ_GROUP.exe
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\bin\Release\net6.0\06_LINQ_GROUP.deps.json
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\bin\Release\net6.0\06_LINQ_GROUP.runtimeconfig.json
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\bin\Release\net6.0\06_LINQ_GROUP.dll
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\bin\Release\net6.0\ref\06_LINQ_GROUP.dll
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\bin\Release\net6.0\06_LINQ_GROUP.pdb
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\06_LINQ_GROUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\06_LINQ_GROUP.AssemblyInfoInputs.cache
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\06_LINQ_GROUP.AssemblyInfo.cs
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\06_LINQ_GROUP.csproj.CoreCompileInputs.cache
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\06_LINQ_GROUP.dll
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\ref\06_LINQ_GROUP.dll
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\06_LINQ_GROUP.pdb
+C:\Projects_C#\Task-CSharp\06_LINQ_GROUP\obj\Release\net6.0\06_LINQ_GROUP.genruntimeconfig.cache

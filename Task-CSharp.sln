@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Task", "09_Task\09_Task.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_TaskMult", "10_TaskMult\10_TaskMult.csproj", "{D88D629D-5785-4250-A1E8-36B86927F9A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_DataAnnotation", "11_DataAnnotation\11_DataAnnotation.csproj", "{0424F43D-7440-4344-ADD4-A14FD1FE378C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_DataAnnotation", "11_DataAnnotation\11_DataAnnotation.csproj", "{0424F43D-7440-4344-ADD4-A14FD1FE378C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Reflection", "12_Reflection\12_Reflection.csproj", "{F63FF1FE-A287-4C0B-BCAA-0E21864CA20E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_Reflection", "12_Reflection\12_Reflection.csproj", "{F63FF1FE-A287-4C0B-BCAA-0E21864CA20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOperations", "MathOperations\MathOperations.csproj", "{884E95C0-7133-4153-8399-F515176018B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F63FF1FE-A287-4C0B-BCAA-0E21864CA20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F63FF1FE-A287-4C0B-BCAA-0E21864CA20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F63FF1FE-A287-4C0B-BCAA-0E21864CA20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{884E95C0-7133-4153-8399-F515176018B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{884E95C0-7133-4153-8399-F515176018B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{884E95C0-7133-4153-8399-F515176018B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{884E95C0-7133-4153-8399-F515176018B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
